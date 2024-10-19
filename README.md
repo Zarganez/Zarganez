@@ -1,5 +1,5 @@
 ## Hi there I am PROGRAMMER! (w0w)
-
+Feel free to message me, open to collaborations
 <!--
 **Zarganez/Zarganez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
