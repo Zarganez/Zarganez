@@ -1,10 +1,10 @@
 # Senior TodoList Developer
 
-### **🛠️ Expertise**
+### Expertise
 - **Languages**: Go, PostgreSQL, JS a dash of C.  
 - **Focus**: Backend development and Computer Science.  
 
-### **🎓 Currently Learning**
+### Currently Learning
 - Expanding my webdev knowledge 🕶️  
 - Diving deep into **C programming** and the foundations of **computer science**
 
