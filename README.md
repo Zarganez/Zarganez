@@ -1,16 +1,12 @@
-## Hello World!
-Feel free to message me, open to collaborations
-<!--
-**Zarganez/Zarganez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Senior TodoList Developer
 
-Here are some ideas to get you started:
+### **🛠️ Expertise**
+- **Languages**: Go, PostgreSQL, JS a dash of C.  
+- **Focus**: Backend development with a taste for frontend magic.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🎓 Currently Learning**
+- Expanding my webdev knowledge 🕶️  
+- Diving deep into **C programming** and the foundations of **computer science** 🔍  
+
+### **🤝 Open to Collaboration**
+Got a crazy project? DM me on X   
