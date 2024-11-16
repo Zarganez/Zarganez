@@ -2,11 +2,10 @@
 
 ### **🛠️ Expertise**
 - **Languages**: Go, PostgreSQL, JS a dash of C.  
-- **Focus**: Backend development with a taste for frontend magic.  
+- **Focus**: Backend development and Computer Science.  
 
 ### **🎓 Currently Learning**
 - Expanding my webdev knowledge 🕶️  
-- Diving deep into **C programming** and the foundations of **computer science** 🔍  
+- Diving deep into **C programming** and the foundations of **computer science**
 
-### **🤝 Open to Collaboration**
-Got a crazy project? DM me on X   
+## DM and follow me on X   
